@@ -1,1 +1,14 @@
+#archivos
+
 config.txt
+
+#carpetas
+
+/nombre_carpeta
+
+
+#otros
+
+[submodule "Flatiron-Barber"]
+	path = Flatiron-Barber
+	url = https://github.com/naachortiz/Flatiron-Barber
